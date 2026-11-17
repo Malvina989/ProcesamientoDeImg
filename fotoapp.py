@@ -1,4 +1,4 @@
-# Link a Github https://github.com/Malvina989/Procesamiento-de-imagenes.git
+https://github.com/Malvina989/ProcesamientoDeImg.git
 import os
 import requests
 from io import BytesIO
