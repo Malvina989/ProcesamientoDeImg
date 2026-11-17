@@ -1,5 +1,5 @@
 # Procesamiento De Imágenes
-Proyecto desarrollado en el marco de la asignatura Programación Python Avanzado de la UPSO
+Proyecto desarrollado en el marco de la asignatura **Programación Python Avanzada** de la UPSO
 
 # 📸 FotoApp – Procesamiento de imágenes con Python
 
@@ -115,4 +115,4 @@ Una vez iniciado el menú, seleccionar la opción deseada e ingresar la ruta de 
 
 ## 👩‍💻 Malvina Christiansen | Ramón Daniel Alberto Rodríguez
 
-Proyecto realizado en el marco de la materia **Python Avanzado**.
+
