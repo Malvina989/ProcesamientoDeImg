@@ -52,18 +52,6 @@ La aplicación cuenta con las siguientes opciones:
 - NumPy
 - Matplotlib
 
-## 📂 Estructura del proyecto
-
-```text
-FotoApp/
-│
-├── fotoapp.py
-├── fotoapp_testdev.ipynb
-├── README.md
-└── imagenes/
-    └── (imágenes de prueba)
-```
-
 ## ⚙️ Instalación
 
 Clonar el repositorio:
